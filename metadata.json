@@ -1,0 +1,5 @@
+{
+  "name": "StatTracker",
+  "description": "A minimal, gamified habit tracker with GTA-style stat progression and decay.",
+  "requestFramePermissions": []
+}
